@@ -1,0 +1,17 @@
+{
+    "Andalucía": {
+        "id": "01",
+        "vote_data":  "data/DATCANDMUNI_PA_1203.DAT",
+        "party_data": "data/DATCAND_PA_1203.DAT",
+        "Provinces": {
+            "11": "Cádiz",
+            "14": "Córdoba",
+            "18": "Granada",
+            "21": "Huelva",
+            "23": "Jaén",
+            "29": "Málaga",
+            "41": "Sevilla",
+            "04": "Almería"
+        }
+    }
+}
